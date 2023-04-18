@@ -11,6 +11,7 @@ function Projects(props) {
                 <li>Proyecto 3</li>
                 <li>Proyecto 4</li>
                 <li>Proyecto 5</li>
+                <li>Proyecto 6</li>
             </ul>
         </>
     );
